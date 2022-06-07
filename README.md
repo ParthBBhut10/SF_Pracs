@@ -1,0 +1,16 @@
+[bankers](https://raw.githubusercontent.com/ParthBBhut10/SF_Pracs/master/bankers.py)<br>
+[bestfit](https://raw.githubusercontent.com/ParthBBhut10/SF_Pracs/master/bestfit.py)<br>
+[cscan](https://raw.githubusercontent.com/ParthBBhut10/SF_Pracs/master/cscan.py)<br>
+[fcfsdisk](https://raw.githubusercontent.com/ParthBBhut10/SF_Pracs/master/fcfs.py)<br>
+[fcfscpu](https://raw.githubusercontent.com/ParthBBhut10/SF_Pracs/master/fcfscpu.py)<br>
+[fifo](https://raw.githubusercontent.com/ParthBBhut10/SF_Pracs/master/fifo.py)<br>
+[look](https://raw.githubusercontent.com/ParthBBhut10/SF_Pracs/master/look.py)<br>
+[lru](https://raw.githubusercontent.com/ParthBBhut10/SF_Pracs/master/lru.py)<br>
+[opt](https://raw.githubusercontent.com/ParthBBhut10/SF_Pracs/master/opt.py)<br>
+[premp](https://raw.githubusercontent.com/ParthBBhut10/SF_Pracs/master/prempsch.py)<br>
+[rr](https://raw.githubusercontent.com/ParthBBhut10/SF_Pracs/master/rr.py)<br>
+[scan](https://raw.githubusercontent.com/ParthBBhut10/SF_Pracs/master/scan.py)<br>
+[sema](https://raw.githubusercontent.com/ParthBBhut10/SF_Pracs/master/semaphore.c)<br>
+[sjf](https://raw.githubusercontent.com/ParthBBhut10/SF_Pracs/master/sjfcpu.py)<br>
+[sttf](https://raw.githubusercontent.com/ParthBBhut10/SF_Pracs/master/sstf.py)<br>
+[worstfit](https://raw.githubusercontent.com/ParthBBhut10/SF_Pracs/master/worstfit.py)
